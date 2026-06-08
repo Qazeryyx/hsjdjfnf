@@ -3,8 +3,6 @@
 #profile-title:free sub
 #announce: Бесплатная VPN-подписка Всё, что нужно для комфортного и стабильного доступа в интернет :) @aeshtsy
 
-hysteria2://83f1d634-6082-42f1-8ad0-955752252880@14.node.snly.win:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=flc.ydns.eu#%F0%9F%87%AA%F0%9F%87%BA+%D0%90%D0%B2%D1%82%D0%BE
-
 🌴:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 США
 
