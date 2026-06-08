@@ -1,5 +1,6 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/freed0mconfigs
+#profile-title:free sub
 #announce: Бесплатная VPN-подписка Всё, что нужно для комфортного и стабильного доступа в интернет :) @aeshtsy
 
 vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?security=reality&type=tcp&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&encryption=none# Казахстан (гугл)
