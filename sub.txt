@@ -4,3 +4,10 @@
 #announce: Бесплатная VPN-подписка Всё, что нужно для комфортного и стабильного доступа в интернет :) @aeshtsy
 
 hysteria2://83f1d634-6082-42f1-8ad0-955752252880@14.node.snly.win:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=flc.ydns.eu#%F0%9F%87%AA%F0%9F%87%BA+%D0%90%D0%B2%D1%82%D0%BE
+
+🌴:
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 США
+
+trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷 Франция
+
+vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?security=reality&encryption=none&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🇰🇿 Казахстан
