@@ -7,4 +7,3 @@ vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?security=reality&typ
 
 vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@141.98.6.113:603?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=www.amd.com# Голландия (амд)
 
-vless://8ab83d5f-fa34-4d29-8a15-27a58b888537@45.15.153.2:443?security=reality&encryption=none&pbk=ICQU4loxJnBpxZAWpCBpq8VXNOWaH0qJhjDPJyC4iHA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=go.yandex&sid=4a8647ce#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+RU%231
