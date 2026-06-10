@@ -17,3 +17,7 @@ vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=r
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 Британия
 
 vless://3ef170be-05d0-479c-9753-aa2f860964ea@78.17.96.198:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a1b2c3d4e5f6#%F0%9F%87%AE%F0%9F%87%AA+%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F+%231
+
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🇮🇱 Израиль
+
+vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?security=reality&encryption=none&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=2895e9532d0c#🇯🇵 Япония
