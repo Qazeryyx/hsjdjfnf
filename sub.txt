@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/freed0mconfigs
-#profile-title:free sub
+#profile-title:free sub (создал @aeshtsy)
 #announce: Бесплатная VPN-подписка Всё, что нужно для комфортного и стабильного доступа в интернет :) @aeshtsy
 
 
