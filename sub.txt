@@ -10,8 +10,13 @@ vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?encryption=none
 
 vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@185.170.154.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T6p0Kn_9VfKQfBrDoBEuPoNZYNeY0VFrl6H6bmh3xhk&security=reality&sid=3fa80f1d8a977c80&sni=nodg.me3op.site&type=tcp#🇩🇪 Германия
 
+vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AT8TNQB1qRljPMmLuTa2Rj765qAr8XbC3D9YpEpxkw0&security=reality&sid=abcdef12&sni=help.me3op.site&type=tcp#🇳🇱 Голландия
 
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?path=%2F&security=&encryption=none&type=ws#🇷🇴 Румыния
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🇰🇿 Казахстан
+
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0MzA2MyIsInBzIjoi8J+HsvCfh74g0JzQsNC70LDQudC30LjRjyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 
 
