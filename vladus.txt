@@ -6,13 +6,11 @@
 𝕯𝖆𝖗𝖌𝖔𝖛:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#🇬🇧
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#🇳🇱
 
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#🇰🇿
 
 vless://ef284622-5219-4ed4-8ef5-9b927bd27ed9@riga02.mansurchik.ru:443?security=reality&encryption=none&pbk=COivANII77wIe17IeIAS0jrWrXooQkZXOnhzA5Q1xUk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=riga02.mansurchik.ru&sid=a7c2f9e4b1d836#%F0%9F%87%B1%F0%9F%87%BB+Riga
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.77.158.156:443?security=tls&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22brutal%22%7D%7D&allowinsecure=0&sni=argg2.auragg.org#%F0%9F%87%B8%F0%9F%87%AA
 
