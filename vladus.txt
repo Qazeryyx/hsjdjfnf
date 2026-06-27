@@ -1,1 +1,4 @@
-.
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/freed0mconfigs
+#profile-title:free sub (создал @aeshtsy)
+#announce:
