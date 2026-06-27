@@ -12,7 +12,4 @@ vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&
 
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.77.158.156:443?security=tls&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22brutal%22%7D%7D&allowinsecure=0&sni=argg2.auragg.org#%F0%9F%87%B8%F0%9F%87%AA
 
-vless://ef284622-5219-4ed4-8ef5-9b927bd27ed9@riga02.mansurchik.ru:443?security=reality&encryption=none&echfq=none&pbk=COivANII77wIe17IeIAS0jrWrXooQkZXOnhzA5Q1xUk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=riga02.mansurchik.ru&sid=a7c2f9e4b1d836#%F0%9F%87%B1%F0%9F%87%BB+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
-
-
-
+vless://ce2c0785-ccec-43b3-888c-f475b410c386@31.76.31.111:443?security=reality&encryption=none&echfq=none&pbk=i7TJrecOjgg834POVC0diCVVWIXKpdtQ7vg6feCDNwA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=iris-07.rita-cloud.com&sid=c389a4cf903c7ca3#%F0%9F%87%AB%F0%9F%87%AE+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
