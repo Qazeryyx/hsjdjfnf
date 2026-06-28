@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-web-page-url:https://t.me/+OD7VP6_gRzMwOTc1
+#profile-web-page-url:https://t.me/InfoMasterVPN
 #profile-title: Мастер ВПН +
 #announce: Best fastest VPN
 
