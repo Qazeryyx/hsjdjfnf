@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-web-page-url:https://t.me/+OD7VP6_gRzMwOTc1
-#profile-title: Мастер ВПН
+#profile-title: Мастер ВПН +
 #announce: Best fastest VPN
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7+Connection+%231
