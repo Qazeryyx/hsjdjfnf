@@ -1,1 +1,4 @@
-.
+#profile-update-interval: 1
+#profile-web-page-url:https://t.me/InfoMasterVPN
+#profile-title: Мастер ВПН бесплатный
+#announce: Best fastest VPN
