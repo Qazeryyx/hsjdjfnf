@@ -21,7 +21,7 @@ vless://ce2c0785-ccec-43b3-888c-f475b410c386@31.77.201.85:443?security=reality&e
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%F0%9F%87%A6%F0%9F%87%BA+Connection+%239
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Compaction #10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8+Compaction+%2310
 
 
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&echfq=none&host=vangoghhh.info&allowinsecure=0&type=ws&sni=vangoghhh.info#%F0%9F%87%A9%F0%9F%87%AA+Connection+%2311
