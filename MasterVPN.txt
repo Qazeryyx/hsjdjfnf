@@ -27,3 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%F0%9F%
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&echfq=none&host=vangoghhh.info&allowinsecure=0&type=ws&sni=vangoghhh.info#%F0%9F%87%A9%F0%9F%87%AA+Connection+%2311
 
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@user321-21.riseservice.me:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=user321-21.riseservice.me&fp=firefox&echfq=none&pbk=lu91XgKjcTukX31kiSavOsTyhrkWsTp7a_VGnfTYy1g&sid=dd1f20d0be614703&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%B4%D0%98%D0%B3%D1%80%D1%8B%20%7C%20Brawl%20Stars
+
+vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@lk-tra.riseads.in:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lk-tra.riseads.in&fp=firefox&echfq=none&pbk=Loc9rXCMgSkksa4TGr203UCppZh9epDs8tdTVCjiCRw&sid=c39843c687af3383&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BAYouTube%20%7C%20%D0%91%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B!
+
