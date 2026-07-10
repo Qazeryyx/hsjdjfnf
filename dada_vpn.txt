@@ -1,1 +1,4 @@
-.
+#profile-update-interval: 1
+#profile-web-page-url:
+#profile-title: dada vpn
+#announce: впн для просмотра гей порно
