@@ -3,9 +3,4 @@
 #profile-title: Мастер ВПН бесплатный
 #announce: Best fastest VPN
 
-vless://8e8cc759-f351-45d2-94f8-0f66d0972f97@153.80.249.67:443?encryption=none&security=reality&sni=www.ya.ru&fp=firefox&pbk=eJfq8tU0Ei_lWSK8YmHlwJDvL1cVe2v-L1y9obk_zxc&sid=a1b2c3d4&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%231
-
-vless://8e8cc759-f351-45d2-94f8-0f66d0972f97@31.76.94.29:443?encryption=none&security=reality&sni=ya.ru&fp=firefox&pbk=A2qy4jLpfTRESEdmLzmUKvfr5p2Rp-DhiZoY7FxwgGI&sid=a1b2c3d4&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%232
-
-vless://8e8cc759-f351-45d2-94f8-0f66d0972f97@193.233.198.220:443?encryption=none&security=reality&sni=www.ya.ru&fp=firefox&pbk=NUefKitvfMI864jgqEtNRuPWjLMLj1YfLb7w8tXZv3k&sid=a1b2c3d4&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%233
-
+vless://1ec263ce-8bde-4a9e-a05c-5f2c9083eabd@185.136.243.83:47350?encryption=none&security=reality&sni=www.icloud.com&fp=firefox&pbk=mqG7dKMWwfUkkujppYTkVHc-i7N31XmBdfNRNt4YSXo&sid=95cf&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20MASTER%20VPN%20%7C%7C%20FREE
