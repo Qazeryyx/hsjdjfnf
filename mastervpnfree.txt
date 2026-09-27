@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-web-page-url:https://t.me/InfoMasterVPN
-#profile-title: Мастер ВПН бесплатный
+#profile-title: Мастер ВПН
 #announce: Best fastest VPN
 
 vless://1ec263ce-8bde-4a9e-a05c-5f2c9083eabd@185.136.243.83:47350?encryption=none&security=reality&sni=www.icloud.com&fp=firefox&pbk=mqG7dKMWwfUkkujppYTkVHc-i7N31XmBdfNRNt4YSXo&sid=95cf&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20MASTER%20VPN%20%7C%7C%20FREE
